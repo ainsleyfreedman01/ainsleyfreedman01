@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ainsleyfreedman01
 - 👀 I’m interested in computer science, mathematics, and creating new things
-- 🌱 I’m currently learning full-stack development
+- 🌱 I’m currently learning full-stack development and data analytics
 - 💞️ I’m looking to collaborate on projects that will help the greater community and challenge me to build new things!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love baseball (go, Cubs!) and am learning data analysis through Nathan Braun's "Learn to Code With Baseball."
