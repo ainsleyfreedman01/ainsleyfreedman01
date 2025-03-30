@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ainsley Freedman</h1>
 <h3 align="center">A math and computer science major at Emory University with a passion for building projects to serve the greater community.</h3>
 
-- 🌱 I’m currently learning **full-stack development and data analytics**
+- 🌱 I’m currently learning **full-stack development and data science**
 
 - 👯 I’m looking to collaborate on **projects to help the greater community and challenge me to build new things!**
 
