@@ -34,6 +34,6 @@
 
 ## ⚙️ Tools & Technologies
 - **Version Control**: Git
-- **Frontend**: React, Bootstrap, Tailwind, Phaser.js, jQuery, Angular
-- **Backend/Database**: REST APIs, SQL (SQLite)
+- **Frontend**: React, Next.js, Bootstrap, Tailwind, Phaser.js, jQuery, Angular
+- **Backend/Database**: REST APIs, SQL (SQLite), Supabase
 - **Design & Visualization**: Figma, Matplotlib, pandas, scikit-learn, MATLAB
