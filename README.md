@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **ainsleyfreedman01@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1o6WA_MKPt5XGQBEkaH40ZCid8BXhBUw9/view" target="_blank">here!</a>
-
 - ⚡ Fun fact **I love baseball (go, Cubs!) and am learning data analysis through Nathan Braun's "Learn to Code With Baseball."**
 
 ## 🛠️ Core Competencies
