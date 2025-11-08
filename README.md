@@ -19,7 +19,7 @@
 - **Problem Solving**
 - **Time Management**
 - **Organization**
-- **Frontend Development**
+- **Full-Stack Development**
 
 ## 💻 Programming Languages
 - **Java**
